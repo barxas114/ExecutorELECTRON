@@ -15,7 +15,7 @@
 
 ### 1. Effortless Installation:
 
-    - Download the ElectronExecutor ZIP file from here (https://github.com/user-attachments/files/15526791/Electron.zip).
+    - Download the ElectronExecutor 
     - Extract the contents and run the ElectronExecutor application.
     - Follow the on-screen instructions to complete the setup process.
 
